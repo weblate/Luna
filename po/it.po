@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-01-16 14:07+0000\n"
-"PO-Revision-Date: 2025-12-13 13:14+0000\n"
+"PO-Revision-Date: 2026-01-28 20:45+0000\n"
 "Last-Translator: albanobattistella <albano_battistella@hotmail.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/luna/luna/it/>\n"
 "Language: it\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15-dev\n"
+"X-Generator: Weblate 5.16-dev\n"
 
 #: data/ui/day_row.blp:5
 msgid "Day details"
@@ -104,7 +104,7 @@ msgstr "Segna come ultimo periodo prima della gravidanza"
 
 #: data/ui/period_page.blp:71
 msgid "EDD from Ultrasound (YYYY-MM-DD)"
-msgstr ""
+msgstr "EDD dall'Ecografia (AAAA-MM-GG)"
 
 #: data/ui/period_page.blp:76
 msgid "Daily Details"
@@ -410,7 +410,7 @@ msgstr "Aggiungi il tuo primo ciclo mestruale per vedere le previsioni."
 
 #: src/window.py:213
 msgid "Estimated Due Date (EDD)"
-msgstr ""
+msgstr "Data di scadenza stimata (EDD)"
 
 #: src/window.py:216
 msgid "Pregnancy Progress"
